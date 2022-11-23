@@ -14,4 +14,4 @@ Projeto contruido do evento Next Level Week da Rocketseat
 
 ## 💛 Contato
 
-rafael.costa@estudantes.ifg.edu.br
+rafael.costa.desenv@gmail.com
